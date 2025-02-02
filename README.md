@@ -81,4 +81,4 @@ VS Code Extension
 Contributions are welcome! If you’d like to improve or extend this project, feel free to open a pull request.
 📧 Contact
 
-For any questions or feedback, reach out to me via GitHub Issues.
+For any questions or feedback, reach out to me via [GitHub Issues](https://github.com/syedjawadakhtar/vs-code-deepseek-ext/issues).
